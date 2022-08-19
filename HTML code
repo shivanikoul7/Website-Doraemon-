@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Doraemon-ek udta robot</title>
+    <link rel="stylesheet" href="Css/style.css" />
+    
+   
+  </head>
+  <body>
+    <nav class="navbar background">
+      <ul class="nav-list">
+        <div class="logo">
+          <img src="doraemon.jpg" height="100" alt="logo" />
+        </div>
+        <li><a href="Home">Home</a></li>
+        <li><a href="Videos">Videos</a></li>
+        <li><a href="Pictures">Pictures</a></li>
+        <li><a href="Merchandise">Merch</a></li>
+      </ul>
+      <div class="rightnav">
+        <input type="text" name="search" id="search" />
+        <button class="btn btn-sm">Search</button>
+      </div>
+    </nav>
+    <section class="background firstSection">
+      <div class="box-main">
+        <div class="firsthalf">
+          <p class="text-big">Doraemon-A Cat Robot</p>
+          <p class="text-small">
+            The story revolves around an earless robotic cat named Doraemon, who
+            travels back in time from the 22nd century to aid a boy named Nobita
+            Nobi. The manga spawned a media franchise. Three anime TV series
+            have been adapted in 1973, 1979, and 2005.
+          </p>
+          <div class="buttons">
+            <button class="btn">Subscribe</button>
+            <button class="btn">Watch video</button>
+          </div>
+        </div>
+
+        <div class="secondhalf">
+          <img src="dora.jpg" alt="Laptop Image">
+        </div>
+      </div>
+    </section>
+    <section class="secRight">
+        <div class="paras">
+        <p class="sectionTag text-big">Story of a Cat Robot</p>
+        <p class="sectionSubTag text-small">Doraemon (Japanese: ドラえもん [doɾaemoɴ]) is a 
+            Japanese manga series written and illustrated by Fujiko F. Fujio. 
+            The manga was first serialized in December 1969, with its 1,345 
+            individual chapters compiled into 45 tankōbon volumes and published 
+            by Shogakukan from 1970 to 1996.The manga spawned a media franchise. 
+            Three anime TV series have been adapted in 1973, 1979, and 2005. 
+            Additionally, Shin-Ei Animation has produced over forty animated 
+            films, including two 3D computer animated films, all of which are 
+            distributed by Toho. Various types of merchandise and media have been 
+            developed, including soundtrack albums, video games, and musicals. 
+            The manga series was licensed for an English language release in North 
+            America, via Amazon Kindle, by a collaboration of Fujiko F. Fujio Pro 
+            with Voyager Japan and AltJapan Co., Ltd. The anime series was 
+            licensed by Disney for an English-language release in North America in 
+            2014, and LUK International in Europe, the Middle East and Africa.
+
+            Doraemon was well-received by critics and became a hit in many Asian 
+            countries. It won numerous awards, including the Japan Cartoonists 
+            Association Award in 1973 and 1994, the Shogakukan Manga Award for 
+            children's manga in 1982, and the Tezuka Osamu Cultural Prize in 1997. 
+            As of 2019, it has sold over 250 million copies worldwide, becoming one
+            
+            of the best-selling manga series in history. Doraemon is also one of
+             the highest-grossing media franchises of all time, of which the 
+             animated film series has the highest number of admissions in Japan. 
+             The Doraemon character has been viewed as a Japanese cultural icon, 
+             and was appointed as the first "anime ambassador" in 2008 by the 
+             country's Foreign Ministry. </p>
+            </div>
+             <div class="thumbnail">
+                <img src="doraemon.jpg" alt="Laptop image" class="imgFluid" height="100">
+             </div>
+    </section>
+    <script src="resp.js"></script>
+  </body>
+</html>
